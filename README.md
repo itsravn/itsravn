@@ -35,11 +35,11 @@
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SENIN-GITHUB-ADIN&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ae00ff&icon_color=ae00ff&text_color=ffffff" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=itsravn&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ae00ff&icon_color=ae00ff&text_color=ffffff" />
   </a>
   
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SENIN-GITHUB-ADIN&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ae00ff&text_color=ffffff" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsravn&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ae00ff&text_color=ffffff" />
   </a>
 </div>
 
