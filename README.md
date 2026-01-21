@@ -9,11 +9,8 @@
     Specialized in <b>Java Concurrency</b>, <b>Redis Pub/Sub</b>, and <b>Distributed Systems</b>.
   </p>
 
-  <a href="https://discord.gg/SENIN-DAVET-KODUN">
+  <a href="https://discord.gg/T7MfWdstk8">
     <img src="https://img.shields.io/badge/Discord-Join%20Community-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
-  </a>
-  <a href="mailto:contact@ravn.dev">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 
 </div>
@@ -38,11 +35,11 @@
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=itsravn&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ae00ff&icon_color=ae00ff&text_color=ffffff" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SENIN-GITHUB-ADIN&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ae00ff&icon_color=ae00ff&text_color=ffffff" />
   </a>
   
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsravn&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ae00ff&text_color=ffffff" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SENIN-GITHUB-ADIN&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ae00ff&text_color=ffffff" />
   </a>
 </div>
 
