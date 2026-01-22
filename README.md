@@ -1,7 +1,7 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=250&section=header&text=RAVN%20STUDIOS&fontSize=70&fontColor=ae00ff&fontAlign=50&animation=fadeIn&desc=Architecting%20Minecraft%20%26%20FiveM%20Ecosystems&descSize=20&descAlign=50&descAlignY=65" width="100%"/>
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=250&section=header&text=RAVN%20STUDIOS&fontSize=70&fontColor=ae00ff&fontAlign=50&animation=fadeIn&desc=Architecting%20Next-Gen%20Networks&descSize=20&descAlign=50&descAlignY=65" width="100%"/>
+  
   ### 🦅 full stack dev from Turkey
    
   <p align="center">
