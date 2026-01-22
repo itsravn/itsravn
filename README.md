@@ -2,7 +2,7 @@
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=250&section=header&text=RAVN%20STUDIOS&fontSize=70&fontColor=ae00ff&fontAlign=50&animation=fadeIn&desc=Architecting%20Minecraft%20%26%20FiveM%20Ecosystems&descSize=20&descAlign=50&descAlignY=65" width="100%"/>
 
-  ### 🦅 Senior Backend Architect & Full-Stack FiveM Developer
+  ### 🦅 full stack dev from Turkey
    
   <p align="center">
     Creating high-performance infrastructures for Minecraft & immersive interactive experiences for FiveM. <br>
@@ -17,7 +17,7 @@
 
 ---
 
-### 🛠 Tech Stack (Cephanelik)
+### 🛠 Tech Stack
 
 <div align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
