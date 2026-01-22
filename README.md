@@ -9,7 +9,7 @@
     Bridging <b>Java Concurrency</b> and <b>Distributed Systems</b> with advanced <b>Lua & NUI Development</b>.
   </p>
 
-  <a href="https://discord.gg/T7MfWdstk8">
+  <a href="https://discord.gg/bT5dENvstH">
     <img src="https://img.shields.io/badge/Discord-Join%20Community-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
 
