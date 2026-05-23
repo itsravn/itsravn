@@ -28,7 +28,7 @@ I'm a **Full-Stack Developer** and **System Architect** passionate about **high-
 ![Spigot / Paper](https://img.shields.io/badge/Spigot_%2F_Paper-F08080?style=for-the-badge&logo=spigot&logoColor=white)
 ![FiveM API](https://img.shields.io/badge/FiveM_Lua-FF8C00?style=for-the-badge&logo=fivem&logoColor=white)
 ![Netty](https://img.shields.io/badge/Netty_Networking-121212?style=for-the-badge&logo=internetexplorer&logoColor=cyan)
----
+
 ---
 
 <p align="center">
