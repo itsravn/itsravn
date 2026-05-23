@@ -32,11 +32,6 @@ I'm a **Full-Stack Developer** and **System Architect** passionate about **high-
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itsravn&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsravn&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="160" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsravn&theme=tokyonight&hide_border=true" height="160" />
 </p>
 
