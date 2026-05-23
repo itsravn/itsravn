@@ -1,7 +1,6 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=750&lines=Hi+there%2C+I'm+Bora+%F0%9F%91%8B;Full-Stack+Developer+%F0%9F%8E%AE;FiveM+Scripting+Expert+%E2%9A%A1" alt="Typing SVG" />
 </h1>
----
 
 I'm a **Full-Stack Developer** and **System Architect** passionate about **high-performance gaming infrastructure**, **concurrency models**, and **immersive interactive experiences**.  
 
